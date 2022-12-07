@@ -1,7 +1,7 @@
 ---
 title: "Interpreter"
 ---
-![[notes/assets/the-interpreter-movie_1652414910283_0.jpg]]
+![[assets/the-interpreter-movie_1652414910283_0.jpg]]
 
 Watch it here: https://www.netflix.com/watch/70019510
 
@@ -16,6 +16,7 @@ The plot twists and turns with a cast of suspects including Silvia, since she lo
 What I admired about the movie is how it handles the tension between peaceful and violent means of handling large-scale crimes like genocide. Having read such incidents all over the world, I can sympathize with Silvia Broome's plight. There is no Nicole Kidman, just Silvia Broome, who walks tightly between wanting vengeance and serving justice.
 
 In the end, justice is served through non-violence at the UN. Maybe there is hope for victims of authoritarian rules.
+
 ## Quotes I liked
 - Silvia Broome: Vengeance is a lazy form of grief.
 - Tobin Keller: You think that not getting caught in a lie is the same thing as telling the truth.

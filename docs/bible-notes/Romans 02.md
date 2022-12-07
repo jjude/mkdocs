@@ -3,5 +3,5 @@ title: "Romans 02"
 ---
 
 - [[Romans]]
-- ## Judging is easy and dangerous
-	- 
+## Judging is easy and dangerous
+- 
