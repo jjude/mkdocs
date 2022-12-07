@@ -1,4 +1,10 @@
-site_name: obsidian-mkdocs template
+site_name: The Blue Book
+site_description: JJ's personal digital garden
+site_author: Joseph Jude
+site_url: https://notes.jjude.com
+
+nav:
+  - Introduction: index.md
 
 theme:
     name: 'material'

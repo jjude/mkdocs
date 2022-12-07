@@ -3,7 +3,8 @@
 I'm Joseph Jude, a CTO, coach, and podcast host. Good to see you here. I have been writing and maintaining a digital presence since [August, 2003](https://web.archive.org/web/20030802053325/http://jjude.com/).
 
 ## What You'll Find Here
-I use [consume, produce, engage](https://jjude.com/sdl) to learn new concepts. I organise all my learning and activities under WINS - **W**ealth, **I**nsights, **N**eworking, and **S**elf. Short 
+I use [consume, produce, engage](https://jjude.com/sdl) to learn new concepts. I organise all my learning and activities under WINS - **W**ealth, **I**nsights, **N**eworking, and **S**elf. 
+
 - Wealth
 	- What it means
 	- How to acquire
