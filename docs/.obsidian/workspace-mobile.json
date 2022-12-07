@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "24ab4ea045c24c3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e45fe0c45ff57098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3d3b963f678b81f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/I Use.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03eb24e2095045da",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "add7493a2f2c3a41",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "33024261f321afb0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fb6fc6740a323b50",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "69d5f810cad3d7a6",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b9bda176344697f4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6f6f7b86ea6a4561",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/notes/I Use.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3a2c9a2c42a70402",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "content/notes/I Use.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bab57fd89be79d73",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "content/notes/I Use.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a3d3b963f678b81f",
+  "lastOpenFiles": [
+    "content/notes/Productivity.md",
+    "content/notes/I Use.md",
+    "content/notes/Talks.md",
+    "content/notes/bible-notes/Psalm 23.md",
+    "content/notes/Tech Notes.md",
+    "content/notes/Digital Gardens.md",
+    "content/_index.md",
+    "content/notes/My notes.md",
+    "content/notes/Why I believe in resurrection of Jesus.md",
+    "content/notes/Insights.md"
+  ]
+}
