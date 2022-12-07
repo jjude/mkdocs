@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f223b372eac8072d",
+        "id": "218642a7c264f111",
         "type": "tabs",
         "children": [
           {
-            "id": "737f6aac67a0a56e",
+            "id": "ad499764ab1d9968",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books writing.md",
+                "file": "OAuth2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books writing.md",
+                "file": "OAuth2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books writing.md",
+                "file": "OAuth2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books writing.md"
+                "file": "OAuth2.md"
               }
             }
           }
@@ -136,8 +136,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "737f6aac67a0a56e",
+  "active": "ad499764ab1d9968",
   "lastOpenFiles": [
+    "notes/assets/oauth2-cheat-sheet.png.md",
+    "OAuth2.md",
+    "Understanding Mastodon API.md",
+    "books writing.md",
     "Insights.md"
   ]
 }
