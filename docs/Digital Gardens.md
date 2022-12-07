@@ -4,6 +4,7 @@ title: "Digital Gardens"
 
 ## Github pages
 - custom domain blanking out: https://github.com/alshedivat/al-folio/issues/130
+- CNAME in docs directory
 
 ## MkDocs
 
