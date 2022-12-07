@@ -1,0 +1,15 @@
+---
+title: "Notes on Ruth"
+---
+- [[Bible Notes]]
+- The book of Ruth is a story of two widows and a farmer in a remote village. It is a wonderful contrast to the previous book of Judges. While the context of the two books is identical (Ruth is set ‘in the days when the judges ruled’, 1:1), the content of the two books is very different.
+- While Judges recounts a catalogue of evil and upheaval because ‘everyone did as they saw fit’ (Judges 21:25), the book of Ruth is a wonderful story of loyalty, faithfulness and kindness – all the more impressive for taking place in this period of strife.
+- Furthermore, while Judges looks at the big picture of the nation of Israel during this period, the book of Ruth is focused on a specific family.
+- It is a reminder to us that the God of the universe and of history is also the God of all the little details in your life. He is not just almighty and powerful, but he is also your Father who is intimately concerned with you. Your life and all the details matter to God. Your life counts.
+- The book of Ruth reminds us of God’s care, provision and faithfulness in the little pieces of our life.
+- Naomi was more concerned for Ruth than for herself. Naomi wanted Ruth to return home so that she might have a better chance of remarrying and Naomi is prepared to lose Ruth for the sake of Ruth’s happiness (Ruth 1:8–13). Ruth’s love for Naomi was equally unselfish and self-giving.
+- She is quite prepared not to get married again. She shows extraordinary loyalty to her mother-in-law. She says, ‘Don’t force me to leave you; don’t make me go home. Where you go, I go; and where you live, I’ll live. Your people are my people, your God is my god; where you die, I’ll die, and that’s where I’ll be buried, so help me God – not even death itself is going to come between us!’ (vv.16–17, MSG).
+- Boaz was also a God-fearing person. He had heard of Ruth’s reputation. She was not only loyal and faithful – she was extremely hard working (2:7). Someone must have testified about her. Boaz says, ‘I’ve heard all about you – heard about the way you treated your mother-in-law after the death of her husband, and how you left your father and mother and the land of your birth and have come to live among a bunch of total strangers’ (v.11, MSG).
+- Furthermore, Ruth had obviously testified about her own faith in God, for Boaz knows that she is committed to ‘God, to whom you’ve come seeking protection under his wings’ (v.12, MSG).
+- Boaz then shows extraordinary kindness to Ruth. Ruth says to her mother-in-law, ‘The name of the man I worked with today is Boaz… He has not stopped showing his kindness to the living and the dead’ (vv.19–20).
+- There are no divine visitation or angelic scene. But poverty of a family was dealt with by the human adherence to the law of God. Kindness and commitment wins the day. This book answers the question, where is God when people are dying in poverty. God has set rules, set role models. We are to follow and redeem the people and the land. 

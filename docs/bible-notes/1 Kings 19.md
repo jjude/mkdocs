@@ -1,0 +1,15 @@
+---
+title: "Notes on 1 Kings 19"
+---
+- [[1 Kings]]
+- [[1 Kings 17]]
+- Ahab told everything Elijah did. Our enemies tell a better story than us. They know our potential much better than us. 
+- Contrast v1 with v10. Elijah says I am the only one left and they want to kill me. Elijah is afraid. But the enemy is even more afraid. 
+- The queen sends a messenger. If she had the intention to kill him she would sent a killer. Not a messenger. The idea is not to kill but to threaten. 
+- If Elijah wanted to die he would have stayed back because Jezebel wanted to kill him. No. He wasn't running for life. He was running from life. He was running away from his purpose much like [[Jonah]]
+- Compare v10 & v14. God brings a storm, earthquake. And Elijah repeats the same story. His shows his power. But Elijah is not ready to get his story out of his head. 
+- Look at what Elijah says to God. I have been jealous. Now I am the only one left. He is right about certain part. Dead wrong about other parts. It is important to learn not to tell wrong stories to ourselves. We will start to believe and it won't be possible to get out of it.
+- Beware of any story that has self-pity or self-exaggerating
+- Jezebel (enemy) shouts (roars); the Lord whispers
+- Your suffering may not be because of your situation but because of the story you say to yourself
+- Jezebel was trampled by horses. Elijah was taken to heaven in chariots

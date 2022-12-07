@@ -1,0 +1,38 @@
+---
+title: "Notes on Mathew"
+---
+
+- [[Bible Notes]]
+- Mathew highlights the idea of Jesus as new Moses by collecting his teachings into five long speeches.
+- in the story of Israel’s Exodus, a Passover meal is celebrated and then deliverance comes. Likewise, Jesus Institiutes communion  and sacrifices himself for the deliverance of the world.
+- At the beginning of the book, Jesus is given the name, Immanuel, meaning God with us. At the end, Jesus sends his followers into the world with the promise that surely I am with you always.
+- Quotes at least 60 Old Testament prophecies. Wrote primarily to Jewish audience. 
+- Probably written after Mark. 
+- [[Mathew 01]]
+- [[Mathew 02]]
+- [[Mathew 03]]
+- [[Mathew 04]] - Temptation of Jesus & Calling of first disciples
+- [[Mathew 05]]
+- [[Mathew 06]] - praying & fasting
+- [[Mathew 07]]
+- [[Mathew 08]]
+- [[Mathew 09]]
+- [[Mathew 10]]
+- [[Mathew 11]]
+- [[Mathew 12]]
+- [[Mathew 13]]
+- [[Mathew 14]]
+- [[Mathew 15]]
+- [[Mathew 16]]
+- [[Mathew 17]]
+- [[Mathew 18]]
+- [[Mathew 19]]
+- [[Mathew 20]]
+- [[Mathew 21]]
+- [[Mathew 22]]
+- [[Mathew 23]]
+- [[Mathew 24]]
+- [[Mathew 25]]
+- [[Mathew 26]]
+- [[Mathew 27]]
+- [[Mathew 28]]

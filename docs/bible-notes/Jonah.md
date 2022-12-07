@@ -1,0 +1,22 @@
+---
+title: "Notes on Jonah"
+---
+
+- [[Bible Notes]] / [[Jonah 1]]
+- Jonah is a study of God's grace
+- Jonah is not able to accept God would forgive another race, nation; he thinks only Israel is the superior and Jews are the best race. This is why the Bible isn't a made up religion. It doesn't show any race as superior.
+- Jonah isn't a myth. Show me one mythical story that shows its protagonist as a jerk
+- Nineveh was a military, economic, and cultural might. It took 3 days to walk. It was huge for those days
+- God always changes the lives of many by first changing one person
+- Your sorrows and suffering can draw you inside into self pity and bitterness or outside into an army of one to change the world - Jonah, Peter etc
+- God is a calling god. He doesn’t rationalise. Mission is for elite. It is for the suffering.
+- God blesses you so you can be a blessing. Not for yourself. Think of Abraham. 
+- God sends people into the city - Jesus, Paul, Jonah
+- City’s problems will be dealt only by repentance. Repentance is not emotional by change of heart
+- The sailors ask - who are you? Jonah says: I am a Hebrew, worshipping the god who made heavens and earth. And I am running away. Who are you? Who are you worshipping? What are you doing? Are you running away or running towards something?
+- Avoid resignation & vengeance
+	- Vengeance = hurt other more than they hurt you
+	- Resignation = we can’t undo the past so let it go
+	- Forgiveness = conquer evil with good; deal with hurt & anger before dealing with the wrong doer
+- Violence against Jesus came from religious people. It was by moralist people. 
+- God is dealing with both Jonah & the people of Nineveh with grace.

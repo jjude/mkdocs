@@ -1,0 +1,11 @@
+---
+title: "Notes on Psalms"
+---
+- [[Bible Notes]]
+- [[Psalm 1]]
+- [[Psalm 22]]
+- [[Psalm 23]]
+- [[Psalms 40]]
+- [[Psalm 88]] - song of sorrow
+- [[Psalm 119]]
+- [[Psalm 147]]

@@ -1,0 +1,6 @@
+---
+title: "Wealth"
+tags:
+- #wealth
+---
+

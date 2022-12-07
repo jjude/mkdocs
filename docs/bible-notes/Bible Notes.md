@@ -1,0 +1,70 @@
+---
+title: "Bible Notes"
+---
+- Bible Books Overview: https://city.org.nz/kit/bible-overview
+- Genesis is abt past; Deuteronomy is abt future. Both talks a lot abt justice.
+- Bible is about how God is willing to enter into unique relationship with individuals
+- Relations can't be expressed through abstract quips; it can only be told by stories
+- David gives glory to the Lord as he returns from victory. The Lord gave the victory to David. Compare prov 21:31
+- David keeps his word to a dead man - Jonathan. He keeps word to God
+	- Shows how father treats us because of Jesus. We eat at his table.
+- Gratitude is about what happened, past. Our memories
+## Old Testament
+- [[Genesis]]
+- [[Exodus]]
+- [[Joshua]]
+- [[Leviticus]]
+- [[1 Kings]]
+- [[Ruth]]
+- [[Psalms]]
+- [[Proverbs]]
+- [[Ecclesiastes]]
+- [[Isaiah]]
+- [[Ezekiel]]
+- [[Obadiah]]
+- [[Micah]]
+- [[Daniel]]
+- [[Esther]]
+## New Testament
+- [[Mathew]]
+- [[Mark]]
+- [[Luke]]
+- [[John]]
+- [[Acts]]
+- [[Romans]]
+- [[Galatians]]
+- [[Ephesians]]
+- [[1 Corinthians]]
+- [[2 Corinthians]]
+- [[Colossians]]
+- [[1 Timothy]]
+- [[Hebrews]]
+- [[1 Peter]]
+- [[2 Peter]]
+
+## Chronological order of New Testament books
+- James - 50 A.D.
+- First Thessalonians - 52-53.
+- Second Thessalonians - 52-53.
+- Galatians - 55.
+- First Corinthians - 57.
+- Second Corinthians - 57.
+- Romans - 57-58.
+- Philippians - 62-63.
+- Colossians - 62-63.
+- Philemon - 62-63.
+- Ephesians - 62-63.
+- Luke - 63.
+- Acts - 64.
+- First Timothy - 65.
+- Titus - 65.
+- Second Timothy - 66.
+- Mark - 66.
+- Matthew - 67.
+- Hebrews - 67
+- First Peter - 67-68.
+- Second Peter - 68.
+- Jude - 68.
+- Apocalypse - 68.
+- John - c. 85.
+- Epistles of John - 90-95.

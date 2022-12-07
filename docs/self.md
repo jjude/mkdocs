@@ -1,0 +1,5 @@
+---
+title: "Self"
+tags:
+- #self
+---

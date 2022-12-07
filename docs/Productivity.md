@@ -1,0 +1,14 @@
+---
+title: "Productivity"
+---
+- What is being productive?
+	- Achieving goals you set for yourself
+	- Not doing more but doing it diligent so there is less waste; fixing leaky buckets
+- Why productive?
+- Gmail
+	- Use +
+	- pyramid communication model
+	- Stop playing ping-pong
+	- signature
+	- Labels (auto labels; using +)
+	- Unsubscribe (cut at the source)

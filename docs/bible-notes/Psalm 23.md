@@ -1,0 +1,14 @@
+---
+title: "Notes on Psalm 23"
+---
+- [[Psalms]]
+- [[Ps-23#v1]] - God is my shepherd. It is a choice. God said in [[Exod-20#v3]], you shall have no other gods before me. Though it is a command from God, it is still a choice on our part. Who are you having as a shepherd? The one who gave his life for you or the one who leads you down in the river?
+- When you choose God as a shepherd, there is food, water, health to your soul, protection when things go wrong, honor among the people (as in [[Prov-31#v31]]); what else is needed?
+- v1 is a choice. v2 - v5 flows out of that choice. As in [[Luke-06#v38]], there is overflowing of blessing. David's cup runs over.
+- David doesn't stop with enjoying the material blessings. He is again making a choice. He says, he will dwell in God's house forever. Now it is both a choice and a declaration of faith. He knows God will not let him down, so he will dwell there.
+- As it happened in [[Luke-05#v11]] with apostles, when we receive material blessings, our response should be a realization of our unworthiness and thus following Jesus;
+- V2 - he leads you besides quiet waters. When you lie down on green pastures and drink from quiet waters there is a possibility you look at others whose life is full of drama and think am I missing something? You don’t. If you want drama in life you will get sucked into a life full of worries, troubles, and anxieties.
+- Calm waters = peace. Because he is prince of peace he leads you to calm waters. There peace that surpasses all understanding will fill your heart. [[Phil-04#v7]]
+- [[1 John-02#v17]] - one who does God’s will remain forever. Which is what v6 says.
+- He guides me in the path of righteousness for his name sake. Such a path often includes taking up your cross even to the point of death. Even so, if you trust that you are walking in the path of God, you will have comfort of God. [[Drought when led by God]]
+- He refreshes and restores your soul, before taking you on the path of righteousness. Your eyes of your heart should be enlightened ([[Ephes-01#v18]]) before walking on God’s path. Otherwise the path looks foolish. 
