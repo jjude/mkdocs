@@ -4,7 +4,7 @@ site_author: Joseph Jude
 site_url: https://notes.jjude.com
 
 nav:
-  - Introduction: index.md
+  - Start Here: index.md
 
 theme:
     name: 'material'

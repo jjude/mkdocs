@@ -6,7 +6,7 @@ tags:
 
 ## Produce
 - [[Books Writing]]
-- [[bible-notes/Bible Notes]]
+- [[Bible Notes]]
 - [[Messages]]
 - [[Random Notes]]
 - [[Talks]]

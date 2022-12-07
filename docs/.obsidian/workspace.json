@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "d77b3cbc43166b9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f223b372eac8072d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "737f6aac67a0a56e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books writing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b70af35ef33c5bfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3097fbd6fc5251f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8611d6f3cc53af96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b91f3581a1804db2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44627907f5909017",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32176afacded2a24",
+    "type": "split",
+    "children": [
+      {
+        "id": "6298a8f07a9586bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "616a0aa1c14d20c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books writing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e39fe2544f253352",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "books writing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3688c5abb84d9957",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e09fc079e0e02735",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "books writing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "737f6aac67a0a56e",
+  "lastOpenFiles": [
+    "Insights.md"
+  ]
+}
