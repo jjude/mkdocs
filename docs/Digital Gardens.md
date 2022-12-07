@@ -2,6 +2,11 @@
 title: "Digital Gardens"
 ---
 
+## Github pages
+- custom domain blanking out: https://github.com/alshedivat/al-folio/issues/130
+
+## MkDocs
+
 - Mine built with https://github.com/jobindjohn/obsidian-publish-mkdocs
 - https://lyz-code.github.io/blue-book/writing/writing/
 

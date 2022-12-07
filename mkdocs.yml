@@ -5,6 +5,8 @@ site_url: https://notes.jjude.com
 
 nav:
   - Start Here: index.md
+  - Insights: insights.md
+  - Concepts: concepts.md
 
 theme:
     name: 'material'

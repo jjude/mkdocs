@@ -5,10 +5,13 @@ title: "Understanding OAuth2"
 Part of [[notes/Understanding Mastodon API]]
 ### Protocol flow
 - Source: https://github.com/go-oauth2/oauth2
-![[notes/assets/oauth-server-flow.jpg]]
+
+![[assets/oauth-server-flow.jpg]]
+
 ### References
 - https://matduggan.com/make-a-mastodon-bot-on-aws-free-tier/
 - https://gist.github.com/aparrish/661fca5ce7b4882a8c6823db12d42d26
+
 ### Steps in OAuth2
 - create app
 	- gets you client id & client secret
