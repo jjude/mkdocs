@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible As PaperBoat.md",
+                "file": "Bible As Paperboat.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible As PaperBoat.md",
+                "file": "Bible As Paperboat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible As PaperBoat.md",
+                "file": "Bible As Paperboat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible As PaperBoat.md"
+                "file": "Bible As Paperboat.md"
               }
             }
           }
@@ -175,15 +175,15 @@
   },
   "active": "99045a2d98e8fa15",
   "lastOpenFiles": [
+    "Books Writing.md",
+    "Golang Packages.md",
+    "Bible As Paperboat.md",
     "bible-notes/Proverbs.md",
-    "Bible As PaperBoat.md",
     "bible-notes/Proverbs 27.md",
     "bible-notes/Proverbs 9.md",
     "bible-notes/Bible Notes.md",
     "bible-notes/Psalms.md",
     "bible-notes/Psalm 119.md",
-    "bible-notes/Psalm 1.md",
-    "bible-notes/Ruth.md",
-    "bible-notes/1 Kings.md"
+    "bible-notes/Psalm 1.md"
   ]
 }

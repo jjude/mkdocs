@@ -7,6 +7,9 @@ nav:
   - Start Here: index.md
   - Insights: Insights.md
   - Concepts: Concepts.md
+  - Books Read: Books.md
+  - Books Writing: Books Writing.md
+  - Tech Notes: Tech Notes.md
 
 theme:
     name: 'material'
