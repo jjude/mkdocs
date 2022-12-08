@@ -2,7 +2,7 @@
 title: "Data Analytics in Supply Chain Management"
 ---
 # Advantages of AI, Data Analytics, BlockChain and Big Data applications in various areas of Supply Chain Management
-- [[notes/Talks]]
+- [[Talks]]
 - for Indian Institute of Materials Management, Chandigarh Branch
 
 ## References
