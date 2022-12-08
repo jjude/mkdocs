@@ -1,7 +1,7 @@
 ---
 title: "Books Writing"
 tags:
-- #books
+- books
 ---
 
 - [[Deaths In The Bible]]

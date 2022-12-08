@@ -1,7 +1,6 @@
 ---
 title: "Deaths In The Bible"
-tags:
-- #books
+tags: #books
 ---
 
 I was attending the memorial service of my uncle. He got a job for my mother and gave us a headstart on the path to prosperity. Not only he put us on that journey, he visited us every year with his family and stayed in our small 1 bed room house and ate rice porridge that we had without any qualms. 

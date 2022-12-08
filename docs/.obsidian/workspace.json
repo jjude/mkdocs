@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bible-notes/Proverbs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b3f27ff1e114734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bible-notes/Proverbs 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab6d265a1418c3eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bible-notes/Proverbs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99045a2d98e8fa15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible As Paperboat.md",
+                "file": "Mastodon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#books",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible As Paperboat.md",
+                "file": "Mastodon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible As Paperboat.md",
+                "file": "Mastodon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,28 +126,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible As Paperboat.md"
+                "file": "Mastodon.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "99045a2d98e8fa15",
+  "active": "ad499764ab1d9968",
   "lastOpenFiles": [
     "Books Writing.md",
-    "Golang Packages.md",
-    "Bible As Paperboat.md",
+    "Developing a Fediverse App.md",
+    "deaths-in-Bible/Deaths In The Bible.md",
+    "Insights.md",
+    "Capitalism and Bible.md",
+    "Brilliant Mistakes.md",
+    "Brew.md",
     "bible-notes/Proverbs.md",
-    "bible-notes/Proverbs 27.md",
-    "bible-notes/Proverbs 9.md",
-    "bible-notes/Bible Notes.md",
-    "bible-notes/Psalms.md",
-    "bible-notes/Psalm 119.md",
-    "bible-notes/Psalm 1.md"
+    "Bible As Paperboat.md",
+    "Golang Packages.md"
   ]
 }
